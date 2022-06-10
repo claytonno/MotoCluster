@@ -8,9 +8,9 @@ Rather than purchasing an off the shelf solution which can be quite limited, I w
 
 Moto-Cluster has a few physical components:
 
-Tachometer/Temperature Circuit is comprised of: a. Arduino Nano b. Printed PCB to solder the Arduino, 555 timer, spark plug picku, temperature headers and other components to c. Temperature sensor(thermistor), and tube fitting for liquid cooled machines.
+Tachometer/Temperature Circuit is comprised of: a. Arduino Nano b. Printed PCB to solder the Arduino, 555 timer, sparkplug capacitive pickup wire, thermistor and other components indicated in the Fritzing Schematic.
 
-GPS Circuit is comprised of: a. Adafruit Ultimate GPS Breakout Module (note that #1 and #2 could be combined into a single unit if using a standalone PA1616D GPS module, a ATMega chip like the 1284P with two serial ports, for a single hardware unit for the motorcycle
+GPS Circuit is comprised of: a. Adafruit Ultimate GPS Breakout Module (note that #1 and #2 could be combined into a single unit if using a standalone PA1616D GPS module, a ATMega chip like the 1284P with two serial ports, for a single hardware unit for the motorcycle and potentially use a bluetooth interface, and replace the wired RPI/Screen with a Iphone or Android Device (to save costs).
 
 Raspberry Pi 4 running Raspbian Buster(will likely work with raspberry Pi 3 as well, maybe 2, not sure but have not tested) WILL NOT work with RPI Zero, as the UI needs threading support.
 
