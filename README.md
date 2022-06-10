@@ -12,7 +12,7 @@ Tachometer/Temperature Circuit is comprised of: a. Arduino Nano b. Printed PCB t
 
 GPS Circuit is comprised of: a. Adafruit Ultimate GPS Breakout Module (note that #1 and #2 could be combined into a single unit if using a standalone PA1616D GPS module, a ATMega chip like the 1284P with two serial ports, for a single hardware unit for the motorcycle
 
-Raspberry Pi 4 running Raspbian Buster(will likely work with raspberry Pi 3 as well, maybe 2, not sure but have not tested) WILL NOT work with RPI Zero, as the UI needs threading support!
+Raspberry Pi 4 running Raspbian Buster(will likely work with raspberry Pi 3 as well, maybe 2, not sure but have not tested) WILL NOT work with RPI Zero, as the UI needs threading support.
 
 Pimoroni Hyperpixel 4 Capacitive touch screen display
 
