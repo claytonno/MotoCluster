@@ -23,3 +23,6 @@ Pimoroni Hyperpixel 4 Capacitive touch screen display
 It also has a program written in Python using Tkinter which is the touchscreen UI for the cluster which runs on the Rapsberry Pi.
 
 Once assembled, you will be able to get spark plug readings from capacitive coupling on the motorcycle, temperature readings from the coolant, and speed from the GPS, and have it display in real time on the Raspberry Pi display. The capabilities of this system could be greatly expanded with the existing sensors, but right now it focuses on the core functionality of a motorcycle cluster.
+
+
+Video Demo Link: https://youtube.com/shorts/iFWvjbjNgWQ
