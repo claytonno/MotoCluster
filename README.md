@@ -25,8 +25,11 @@ It also has a program written in Python using Tkinter which is the touchscreen U
 Once assembled, you will be able to get spark plug readings from capacitive coupling on the motorcycle, temperature readings from the coolant, and speed from the GPS, and have it display in real time on the Raspberry Pi display. The capabilities of this system could be greatly expanded with the existing sensors, but right now it focuses on the core functionality of a motorcycle cluster.
 
 Python to run on Pi --> main.py
+
 C running on Arduino Nano --> RPMTemperature_Sketch_Updated.ino
+
 Fritzing Hardware Schematic for Arduino, and associated circuit for capacitive RPM pickup, Thermistor --> ClusterArdyno.fzz
+
 Case Design in Fusion 360 for 3D printing --> Cluster Case v3.f3d
 
 Video Demo Link: https://youtube.com/shorts/iFWvjbjNgWQ
