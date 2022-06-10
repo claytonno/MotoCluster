@@ -28,7 +28,7 @@ Python to run on Pi --> main.py
 
 C running on Arduino Nano --> RPMTemperature_Sketch_Updated.ino
 
-Fritzing Hardware Schematic for Arduino, and associated circuit for capacitive RPM pickup, Thermistor --> ClusterArdyno.fzz
+Fritzing Hardware Schematic for Arduino, and associated circuit for capacitive RPM pickup, Thermistor --> MotoCluster - Schematic and PCB.fzz
 
 Case Design in Fusion 360 for 3D printing --> Cluster Case v3.f3d
 
